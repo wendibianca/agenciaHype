@@ -10,7 +10,7 @@
 }
 
 .navbar-brand img{
-    width: 8rem;
+    width: 7rem;
 }
 
 #home{
@@ -29,6 +29,14 @@
     text-align: justify;
 }
 
-.social-media img{
-    width: 25rem;
+.social-media_img img{
+    width: 25rem;   
 }
+
+.servicos-oferecidos_card{
+    width: 18rem;
+    padding: .5rem;
+    border: .1rem solid gray;
+    border-radius: 3rem;
+}
+
