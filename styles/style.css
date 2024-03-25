@@ -107,13 +107,24 @@
 
 .botao-btn:hover{
     opacity: 1;
-    color: white;
-   
+    color: white;   
 }
 
 .social-media_img img,
 .gestao-marketing_img img {
   width: 25rem;
+}
+
+.pacote-bronze{
+  color: #cd803285;
+}
+
+.pacote-prata{
+  color: #c0c0c080;
+}
+
+.pacote-ouro{
+  color: #ffd900b5;
 }
 
 .servicos-oferecidos_card,
