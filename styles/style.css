@@ -118,8 +118,8 @@
 }
 
 .social-media_img img,
-.gestao-marketing_img img {
-  width: 25rem;
+.gestao-marketing_img img, .home_introducao_img img{
+  width: 23rem;
 }
 
 .pacote-bronze{
@@ -182,7 +182,11 @@
 }
 
 @media screen and (min-width: 992px) {
-    .contato {
-        height: 85vh;
-    }
-  }
+  .social-media_img img,
+.gestao-marketing_img img, .home_introducao_img img{
+  width: 25rem;
+}
+.icone {
+  font-size: 1.3rem !important ;
+}
+}
