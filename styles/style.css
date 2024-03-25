@@ -8,7 +8,7 @@
   a{
     color: white;
  } */
-  h1, .icone:hover {
+  h1, .icone, .icone:hover {
     font-family: "Stint Ultra Expanded", serif;
     background-image: linear-gradient(to bottom, black,#14e807) !important;
     background-clip: text;
@@ -25,6 +25,13 @@
     font-family: "Karla", sans-serif;
  }
 
+ .icone{
+  opacity: .5;
+ }
+
+ .icone:hover{
+  opacity: 1;
+ }
 }
 
 .navbar {
