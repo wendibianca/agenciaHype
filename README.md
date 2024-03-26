@@ -25,4 +25,4 @@ Este projeto demonstra minha habilidade em desenvolver sites dinâmicos e atraen
 
 ## Visualizar o Projeto
 
-A empresa me autorizou a disponibilizar o código deste projeto no meu GitHub e a fazer o deploy do site. O site está acessível através do seguinte link: [Hype Agência de Marketing Digital](https://wendibianca.github.io/meuPortifolio/)
+A empresa me autorizou a disponibilizar o código deste projeto no meu GitHub e a fazer o deploy do site. O site está acessível através do seguinte link: [Hype Agência de Marketing Digital](https://wendibianca.github.io/agenciaHype/)
